@@ -1,3 +1,14 @@
+####################################
+# Code for creating dynamic maps 
+# November 2018
+# @EduGonzalo
+# ##############################
+
+
+
+
+
+
 # Libraries
 
 library(tidyverse)
